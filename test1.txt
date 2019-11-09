@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is FEF2-DE65
-
- Directory of C:\MyProject
-
-11/09/2019  03:19 PM    <DIR>          .
-11/09/2019  03:19 PM    <DIR>          ..
-11/09/2019  03:19 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  925,952,352,256 bytes free
+ Change 1
